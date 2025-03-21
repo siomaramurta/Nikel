@@ -54,7 +54,4 @@ O curso **Codaí 2.0** é uma formação completa para iniciantes no desenvolvim
 3. Crie uma conta.
 4. Navegue pelas páginas para gerenciar suas finanças.
 
-## 🌐 Próximos Passos
-
-No **Módulo V**, o projeto será publicado na nuvem, tornando-o acessível para o mundo todo. 
 
